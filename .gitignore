@@ -12,6 +12,7 @@ Makefile
 *.elf
 *.o
 *.map
+*.launch
 
 # Ignore STM32CubeIDE metadata directories and files
 .stm32cubemx/
@@ -30,4 +31,4 @@ Utilities/
 .settings/
 .project
 .cproject
-*.launch
+
