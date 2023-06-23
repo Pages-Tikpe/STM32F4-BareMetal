@@ -30,4 +30,4 @@ Utilities/
 .settings/
 .project
 .cproject
-.launch
+*.launch
